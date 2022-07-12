@@ -8,12 +8,6 @@ Templates to bootstrap Hydroxide Framework
 
 These templates are meant to be used via the [degit](https://github.com/Rich-Harris/degit) utility.
 
-If you don't have the degit installed, install it globally:
-
-```
-npm install -g degit
-```
-
 <br/>
 
 ### Vite + Typescript
