@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+}
+
+#app {
+	font-family: Arial, Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	text-align: center;
+	color: white;
+	margin-top: 60px;
+}
+
+button {
+	font-size: 30px;
+	padding: 0.6em 1em;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+h1 {
+	font-size: 90px;
+	letter-spacing: -0.05em;
+}

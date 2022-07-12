@@ -1,0 +1,19 @@
+{
+  "name": "hydroxide-vite-ts",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "hydroxide": "^0.4.1",
+    "hydroxide-dom": "^0.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9",
+    "vite-plugin-hydroxide": "^0.0.2"
+  }
+}
