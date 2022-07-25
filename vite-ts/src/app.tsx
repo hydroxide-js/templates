@@ -4,7 +4,7 @@ import { render } from 'hydroxide-dom';
 
 function App() {
 	const count = reactive(0);
-	const increment = () => count.perform(v => v + 1);
+	const increment = () => count.set(count() + 1);
 	return (
 		<div>
 			<h1>Hydroxide</h1>
