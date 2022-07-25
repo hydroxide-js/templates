@@ -1,5 +1,5 @@
 {
-  "name": "hydroxide-vite-ts",
+  "name": "hydroxide-template-vite-ts",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,12 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "hydroxide": "^0.4.1",
-    "hydroxide-dom": "^0.4.1"
+    "hydroxide-dom": "latest"
   },
   "devDependencies": {
     "typescript": "^4.5.4",
     "vite": "^2.9.9",
-    "vite-plugin-hydroxide": "^0.0.2"
+    "vite-plugin-hydroxide": "latest"
   }
 }

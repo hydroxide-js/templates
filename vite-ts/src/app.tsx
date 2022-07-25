@@ -7,7 +7,7 @@ function App() {
 	const increment = () => count.perform(v => v + 1);
 	return (
 		<div>
-			<h1> Hydroxide </h1>
+			<h1>Hydroxide</h1>
 			<button on-click={increment}> count is {count()} </button>
 		</div>
 	);
